@@ -1,0 +1,24 @@
+{
+  "name": "codespaces-test",
+  "version": "1.0.0",
+  "description": ".md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TicTak21/CodespacesTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TicTak21/CodespacesTest/issues"
+  },
+  "homepage": "https://github.com/TicTak21/CodespacesTest#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
